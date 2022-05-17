@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Methodos Tecnologia
-- 🌱 I’m currently learning Next.js
+- 🔭 I’m currently working on Mesa Mobile Thinking
+- 🌱 I’m currently learning Scrum, TypeScript, Jest, GraphQL
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vlfernandes/)
 
 <!--
